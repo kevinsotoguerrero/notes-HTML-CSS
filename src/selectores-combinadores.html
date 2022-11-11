@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      /* Se ve afectado todos los p que estan dentro del div */
+      div p {
+        color: burlywood;
+      }
+
+      /* Se ve afectado el div hijo directo del div */
+      div > div {
+        background-color: cornflowerblue;
+      }
+
+      /* Se ve afectado el section que esta directamente debajo del div */
+      div + section {
+        color: chartreuse;
+      }
+
+      /* Se ven afectados todas las etiquetas a hermanas de div */
+      div ~ a {
+        color: pink;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <p>Hola</p>
+      <p>Que mas?</p>
+      <div>
+        <p>Prueba</p>
+        <section>
+          <span>Prueba 3</span>
+        </section>
+      </div>
+      <div>
+        <p>Prueba 2</p>
+      </div>
+      <p>Prueba 4</p>
+    </div>
+    <section>Prueba 6</section>
+    <p>Prueba 5</p>
+
+    <a href="">Prueba 8</a>
+
+    <section>Prueba 7</section>
+    <a href="">Prueba 9</a>
+  </body>
+</html>
