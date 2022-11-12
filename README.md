@@ -1,6 +1,6 @@
 # Tipo de selectores
 
-![Tipo de selectores](/img/selectores.png "Tipo de selectores")
+![Tipo de selectores](/img/selectores.png =100x20 "Tipo de selectores" )
 
 ## Selectores combinadores
 
@@ -15,3 +15,6 @@
 ![Nivel de importancia reglas CSS](/img/importancia-reglas-css.png "Nivel de importancia reglas CSS")
 
 
+# Tipos de visualizacion de los elementos
+
+![Tipos de visualizacion de los elementos](/img/display.png "Tipos de visualizacion de los elementos")
