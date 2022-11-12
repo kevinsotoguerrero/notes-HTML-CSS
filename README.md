@@ -1,6 +1,6 @@
 # Tipo de selectores
 
-![Tipo de selectores](/img/selectores.png =100x20 "Tipo de selectores" )
+<img src="/img/selectores.png" alt="Tipo de selectores" width="200"/>
 
 ## Selectores combinadores
 
