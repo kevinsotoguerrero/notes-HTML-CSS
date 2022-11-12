@@ -1,6 +1,8 @@
 # Tipo de selectores
 
-<img src="/img/selectores.png" alt="Tipo de selectores" width="200"/>
+<div>
+    <img src="/img/selectores.png" alt="Tipo de selectores" width="400px"/>
+</div>
 
 ## Selectores combinadores
 
