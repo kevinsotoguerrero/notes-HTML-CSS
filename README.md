@@ -1,11 +1,9 @@
-<style>
-    div[dir="auto"]{
-        text-align: center;
-    }
-</style>
+
 # Tipo de selectores
 
-<div>
+<div style="
+    text-align: center;
+">
     <img src="/img/selectores.png" alt="Tipo de selectores" width="400px"/>
 </div>
 
