@@ -30,3 +30,14 @@
 - [Documentacion Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Documentacion CSS grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
+# Colapso de margenes
+
+<img src="/img/colapso-margenes.png" alt="Colapso de margenes" width="400px"/>
+
+# Posicionamiento
+
+<img src="/img/posicionamiento.png" alt="Posicionamiento" width="400px"/>
+
+- Posicinamiento absoluto se ubica en referencia al elemento con posicionamiento relativo mas cercano
+- Fixed para fijarlo en pantalla cuando se hace scroll
+- Sticky para fijar un elemento encabezado de lista mientras llega el otro
