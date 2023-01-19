@@ -41,3 +41,7 @@
 - Posicinamiento absoluto se ubica en referencia al elemento con posicionamiento relativo mas cercano
 - Fixed para fijarlo en pantalla cuando se hace scroll
 - Sticky para fijar un elemento encabezado de lista mientras llega el otro
+
+# Medidas
+
+<img src="/img/medidas.png" alt="Medidas" width="400px"/>
